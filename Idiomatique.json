@@ -2,56 +2,193 @@
   {
     "expression": "Avoir la pêche",
     "signification": "Se sentir très bien",
+    "contexte": "Littéralement, « avoir la pêche » signifie « avoir le fruit peach ». L’image n’est pas à prendre au pied de la lettre : dans le français familier, la pêche est associée à l’énergie, à la bonne humeur et au fait de se sentir en pleine forme.",
     "exemple": "Après sa baignade matinale, il a toujours la pêche.\nJ’ai décidé d’aller en Espagne cet été et j’ai la pêche ! \n\n« Pêche » signifie « peach », donc littéralement le phrase veut dire « have the peach »"
   },
   {
     "expression": "Avoir le cafard",
     "signification": "Avoir le moral à zéro ou être déprimé.",
-    "exemple": ""
+    "contexte": "Littéralement, « cafard » signifie cockroach. Le mot « cafard » a aussi pris le sens de mélancolie ou de tristesse. Charles Baudelaire a notamment employé ce mot dans ce sens, et « avoir le cafard » signifie aujourd’hui se sentir triste, déprimé ou avoir le moral à zéro.",
+    "exemple": "Je ne sais pas pourquoi, mais j’ai le cafard.\nTu viens de divorcer, c’est normal d’avoir le cafard !"
   },
   {
     "expression": "Coûter les yeux de la tête",
-    "signification": "Coûter très cher.",
+    "signification": "Coûter extrêmement cher.",
+    "contexte": "L’expression imagine un prix si élevé qu’il faudrait sacrifier quelque chose d’aussi précieux que ses propres yeux pour le payer. C’est une forte exagération, proche de l’anglais « to cost an arm and a leg ».",
     "exemple": "Cette voiture coûte les yeux de la tête."
   },
   {
-    "expression": "Poser un lapin",
-    "signification": "Ne pas venir à un rendez-vous.",
-    "exemple": "Il m'a posé un lapin au café."
+    "expression": "Poser un lapin à quelqu’un",
+    "signification": "Ne pas venir à un rendez-vous sans prévenir.",
+    "contexte": "Littéralement, « poser un lapin » signifie déposer un rabbit, ce qui n’explique pas directement le sens moderne. L’expression s’est figée pour désigner le fait de laisser quelqu’un attendre à un rendez-vous auquel on ne se présente pas.",
+    "exemple": "Paul devait me rejoindre à huit heures, mais il m’a posé un lapin."
   },
   {
     "expression": "Tomber dans les pommes",
     "signification": "S’évanouir.",
+    "contexte": "Littéralement, l’expression signifie « tomber dans les apples ». Les pommes n’ont ici aucun rapport direct avec le fait de perdre connaissance : c’est une expression imagée et familière qui signifie s’évanouir.",
     "exemple": "Elle est tombée dans les pommes de surprise."
   },
   {
     "expression": "Être dans la lune",
     "signification": "Être distrait ou rêvasser.",
+    "contexte": "Littéralement, cela signifie « être dans la moon ». L’image suggère que la personne est mentalement très loin de ce qui se passe autour d’elle, comme si son esprit était parti jusque sur la lune. On l’utilise pour quelqu’un qui rêve ou qui est distrait.",
     "exemple": "Tu es encore dans la lune aujourd'hui !"
   },
   {
     "expression": "Donner sa langue au chat",
-    "signification": "Abandonner une devinette.",
-    "exemple": "Je donne ma langue au chat : quelle est la réponse ?"
+    "signification": "Renoncer à chercher ou à deviner une réponse.",
+    "contexte": "Littéralement, on « donne sa langue au chat » lorsqu’on n’a plus rien à proposer. Une ancienne forme de l’expression évoquait le fait de jeter sa langue aux chiens : quand on ne pouvait plus deviner, la langue devenait symboliquement inutile.",
+    "exemple": "Alors, je donne ma langue au chat."
   },
   {
     "expression": "Avoir un poil dans la main",
     "signification": "Être très paresseux.",
+    "contexte": "Littéralement, cela signifie avoir un hair dans la paume de la main. L’image suggère qu’une personne utilise si peu ses mains pour travailler qu’un poil aurait eu le temps d’y pousser. C’est donc une façon humoristique de dire qu’elle est très paresseuse.",
     "exemple": "Il a un poil dans la main et évite toutes les corvées."
   },
   {
     "expression": "Casser les pieds",
     "signification": "Agacer quelqu’un.",
+    "contexte": "Littéralement, « casser les pieds » signifie « break someone’s feet ». Au sens figuré, l’expression décrit quelqu’un ou quelque chose qui devient très agaçant, pénible ou ennuyeux. Elle est familière et ne parle évidemment pas de véritables pieds cassés.",
     "exemple": "Arrête de me casser les pieds avec cette histoire."
   },
   {
     "expression": "Ce n'est pas ma tasse de thé",
     "signification": "Ne pas aimer quelque chose.",
+    "contexte": "Littéralement, cela signifie « ce n’est pas ma cup of tea ». L’expression française vient de l’anglais « not my cup of tea » et sert à dire qu’une activité, une chose ou un sujet ne correspond pas à ses goûts.",
     "exemple": "Le karaoké, ce n'est pas ma tasse de thé."
   },
   {
     "expression": "Mettre son grain de sel",
-    "signification": "Donner son avis sans qu’on le demande.",
-    "exemple": "Elle met toujours son grain de sel dans nos discussions."
+    "signification": "Donner son avis ou intervenir sans y être invité.",
+    "contexte": "Littéralement, quelqu’un ajoute son petit grain de sel dans un plat préparé par d’autres. Au sens figuré, il ajoute de la même façon une opinion ou une intervention qui n’était pas demandée, souvent avec une nuance négative.",
+    "exemple": "Bien sûr, Richard a dû mettre son grain de sel."
+  },
+  {
+    "expression": "Être haut comme trois pommes",
+    "signification": "Être très petit, surtout en parlant d’un enfant.",
+    "contexte": "Littéralement, l’expression imagine quelqu’un dont la taille ne dépasse pas trois pommes empilées. Cette image exagérée et amusante sert surtout à parler de la petite taille ou du jeune âge d’un enfant.",
+    "exemple": "J’étais haut comme trois pommes quand j’ai vu ce film."
+  },
+  {
+    "expression": "Mettre du beurre dans les épinards",
+    "signification": "Améliorer sa situation financière ou son quotidien.",
+    "contexte": "Littéralement, on ajoute du beurre à des épinards pour rendre un plat simple plus riche et plus agréable. Au sens figuré, un revenu ou un avantage supplémentaire rend la vie quotidienne un peu plus confortable.",
+    "exemple": "Ce petit contrat en plus va mettre du beurre dans les épinards ce mois-ci."
+  },
+  {
+    "expression": "Avoir le bras long",
+    "signification": "Avoir beaucoup d’influence ou de relations utiles.",
+    "contexte": "Littéralement, un bras très long peut atteindre plus loin. L’image suggère donc qu’une personne possède un réseau ou une influence qui lui permet d’agir bien au-delà de son entourage immédiat.",
+    "exemple": "Avec tous ses contacts au ministère, il a le bras long."
+  },
+  {
+    "expression": "Casser sa pipe",
+    "signification": "Mourir.",
+    "contexte": "Littéralement, cela signifie briser sa pipe. L’expression est devenue une façon familière et imagée de parler de la mort, souvent avec une nuance moins solennelle que le verbe « mourir ».",
+    "exemple": "Dans le roman, le vieux marin casse sa pipe à la fin."
+  },
+  {
+    "expression": "Chercher midi à quatorze heures",
+    "signification": "Compliquer inutilement une chose simple.",
+    "contexte": "Littéralement, on cherche midi à deux heures de l’après-midi, donc à un moment où midi est déjà passé. L’image souligne l’absurdité de chercher une difficulté là où il n’y en a pas.",
+    "exemple": "Ah, tu cherches toujours midi à quatorze heures !"
+  },
+  {
+    "expression": "En mettre sa main au feu",
+    "signification": "Être absolument certain de quelque chose.",
+    "contexte": "L’image est celle d’une personne tellement sûre d’elle qu’elle accepterait de risquer sa main dans le feu pour prouver ce qu’elle affirme. On emploie souvent la tournure « j’en mettrais ma main au feu ».",
+    "exemple": "Je mettrais ma main au feu qu’elle connaît déjà la réponse."
+  },
+  {
+    "expression": "Faire chou blanc",
+    "signification": "Échouer ou ne rien obtenir.",
+    "contexte": "Littéralement, l’expression parle de « faire chou blanc », une image qui ne correspond plus clairement à son sens moderne. Aujourd’hui, elle signifie qu’une tentative, une recherche ou une démarche n’a donné aucun résultat.",
+    "exemple": "Nous avons cherché un appartement tout le week-end, mais nous avons fait chou blanc."
+  },
+  {
+    "expression": "Faire la pluie et le beau temps",
+    "signification": "Avoir beaucoup de pouvoir et décider de ce qui se passe.",
+    "contexte": "Littéralement, la personne contrôlerait aussi bien la pluie que le beau temps. Cette maîtrise impossible de la météo représente, au sens figuré, quelqu’un qui impose ses décisions et influence fortement une situation.",
+    "exemple": "Dans cette entreprise, c’est la directrice qui fait la pluie et le beau temps."
+  },
+  {
+    "expression": "Jeter l’éponge",
+    "signification": "Abandonner ou renoncer.",
+    "contexte": "L’expression vient de l’univers de la boxe : lorsqu’un combattant ne pouvait plus continuer, son coin pouvait jeter l’éponge — aujourd’hui plutôt la serviette — pour demander l’arrêt du combat. Au sens figuré, cela signifie abandonner.",
+    "exemple": "Après trois heures de négociation, il a décidé de jeter l’éponge."
+  },
+  {
+    "expression": "L’habit ne fait pas le moine",
+    "signification": "Il ne faut pas juger quelqu’un seulement sur son apparence.",
+    "contexte": "Littéralement, porter l’habit d’un moine ne suffit pas à faire de quelqu’un un véritable moine. L’expression rappelle que les vêtements, l’apparence ou les signes extérieurs ne prouvent pas la personnalité réelle.",
+    "exemple": "Il avait l’air sévère, mais l’habit ne fait pas le moine."
+  },
+  {
+    "expression": "Mettre la charrue avant les bœufs",
+    "signification": "Faire les choses dans le mauvais ordre.",
+    "contexte": "Dans l’agriculture traditionnelle, les bœufs tirent la charrue : placer la charrue devant eux rendrait le travail impossible. L’expression décrit donc une personne qui commence par une étape qui devrait venir plus tard.",
+    "exemple": "N’achète pas les meubles avant d’avoir signé le bail : tu mets la charrue avant les bœufs."
+  },
+  {
+    "expression": "Ne pas être sorti de l’auberge",
+    "signification": "Avoir encore beaucoup de difficultés à surmonter.",
+    "contexte": "Littéralement, on est encore dans l’auberge et le voyage n’est donc pas terminé. Au sens figuré, on croit parfois avoir avancé, mais il reste encore de nombreux problèmes avant d’en avoir fini.",
+    "exemple": "On a réparé le moteur, mais maintenant la boîte de vitesses est cassée : on n’est pas sortis de l’auberge."
+  },
+  {
+    "expression": "Passer l’arme à gauche",
+    "signification": "Mourir.",
+    "contexte": "L’expression utilise une image militaire : l’arme change de côté, comme si le soldat cessait définitivement de combattre. Elle est aujourd’hui une manière familière et un peu ancienne de dire « mourir ».",
+    "exemple": "Après une longue maladie, le vieux personnage passe l’arme à gauche."
+  },
+  {
+    "expression": "Pisser dans un violon",
+    "signification": "Faire quelque chose d’inutile et sans effet.",
+    "contexte": "Littéralement, l’image est volontairement absurde et vulgaire : uriner dans un violon ne produit rien d’utile. L’expression insiste donc sur l’inutilité totale d’un effort ou d’une parole.",
+    "exemple": "Lui expliquer encore une fois ne sert à rien : c’est comme pisser dans un violon."
+  },
+  {
+    "expression": "Prendre ses jambes à son cou",
+    "signification": "S’enfuir très rapidement.",
+    "contexte": "Littéralement, l’image semble impossible : on prendrait ses propres jambes et on les remonterait jusqu’au cou. Elle évoque surtout quelqu’un qui court si vite que ses jambes paraissent voler derrière lui.",
+    "exemple": "Quand le chien s’est mis à courir vers lui, il a pris ses jambes à son cou."
+  },
+  {
+    "expression": "Savoir sur le bout des doigts",
+    "signification": "Connaître quelque chose parfaitement.",
+    "contexte": "Littéralement, le savoir serait disponible jusque sur le bout des doigts, immédiatement accessible et parfaitement maîtrisé. L’expression insiste sur une connaissance très précise et familière.",
+    "exemple": "Elle connaît le dossier sur le bout des doigts."
+  },
+  {
+    "expression": "Tenir la chandelle",
+    "signification": "Être de trop auprès d’un couple ou assister sans participer.",
+    "contexte": "L’image vient du fait qu’une troisième personne pouvait tenir une chandelle pour éclairer deux autres personnes. Aujourd’hui, l’expression décrit surtout quelqu’un qui se retrouve comme « third wheel » avec un couple.",
+    "exemple": "Je suis sorti avec eux deux, mais j’avais l’impression de tenir la chandelle."
+  },
+  {
+    "expression": "Tirer les vers du nez",
+    "signification": "Obtenir difficilement des informations de quelqu’un.",
+    "contexte": "Littéralement, il faudrait tirer des vers hors du nez, une opération désagréable et difficile. Au sens figuré, on doit poser beaucoup de questions et insister pour faire parler une personne réticente.",
+    "exemple": "Le journaliste a dû lui tirer les vers du nez pour obtenir des détails."
+  },
+  {
+    "expression": "Vendre la mèche",
+    "signification": "Révéler un secret ou dévoiler ce qui devait rester caché.",
+    "contexte": "La « mèche » peut évoquer la mèche d’un explosif : une fois repérée, elle révèle ce qui était caché et permet de comprendre le piège. Au sens figuré, vendre la mèche revient à dévoiler prématurément une information secrète.",
+    "exemple": "Ne vends pas la mèche : la fête doit rester une surprise."
+  },
+  {
+    "expression": "Voir midi à sa porte",
+    "signification": "Juger une situation selon son propre point de vue ou ses intérêts.",
+    "contexte": "Littéralement, chacun regarde « midi » depuis sa propre porte, donc depuis son propre emplacement. L’image suggère que chacun interprète les faits à partir de sa situation personnelle plutôt que d’un point de vue neutre.",
+    "exemple": "Sur ce dossier, chacun voit midi à sa porte et défend ses propres intérêts."
+  },
+  {
+    "expression": "Avoir d’autres chats à fouetter",
+    "signification": "Avoir d’autres choses, souvent plus importantes, à faire.",
+    "contexte": "Littéralement, l’expression signifie « avoir d’autres chats à fouetter » ; aucun chat réel n’est concerné. Comme l’anglais « to have other fish to fry », elle signifie qu’on a d’autres priorités et parfois de meilleures choses à faire.",
+    "exemple": "Je ne peux pas t’aider, j’ai d’autres chats à fouetter."
   }
 ]
